@@ -81,7 +81,7 @@ if app_mode == "Home":
    )
    st.markdown('''
    ## Welcome to my app 🙂''')
-   image_path = '/Users/anjola/Downloads/Black and White Decorative Monoline Jazz Music YouTube Banner.png'
+   image_path = 'banner.png'
    st.image(image_path,use_container_width=True)
 
    st.markdown("""
